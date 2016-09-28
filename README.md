@@ -18,7 +18,7 @@ any of these, try selecting a file in the project, and then running Tools > Pub 
 ##Running##
 1. To run the server, you will have to create an 'API_KEYS.dart' file in the lib directory.
 Directions can be found in the developer docs 
-<a href="https://github.com/ChildrenOfUr/coUclient/blob/master/doc/api.md" target="_blank">here.</a>
+<a href="https://github.com/ChildrenOfUr/coUserver/blob/master/doc/api.md" target="_blank">here.</a>
 2. After that, right-click on the `declarations.dart` file and select Run to start the server on your
 local machine.
 3. Go to http://localhost:8181/serverStatus to test that your server is returning data. See `server.dart`
